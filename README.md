@@ -8,15 +8,6 @@ This project has given me a space to collect notes as I learn more in class.
 So far I've learned about the github repository, styling with CSS, building the framework for my website using HTML, and making my website interactive with JavaScript.
 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
